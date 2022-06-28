@@ -1,7 +1,5 @@
 ## Hi there, I'm Pedro Rodrigues! 👋
 
-##
-
 - 🌱 I’m currently studying to become a Full Stack developer
 - ⚡ Fun facts:
   - I'm also a geologist specialized in Geographic Information Systems
