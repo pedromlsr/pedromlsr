@@ -1,6 +1,6 @@
 ## Hi there, I'm Pedro Rodrigues! 👋
 
-- 🌱 I’m studying to become a Full Stack developer, currently invested in upgrading my skills in React and learning Microsoft technologies like C#, .NET and Azure
+- 🌱 I’m studying to become a Full Stack developer, currently invested in upgrading my skills in React and Microsoft technologies like C# and .NET.
 - ⚡ Fun facts:
   - I'm also a geologist specialized in Geographic Information Systems
   - NFL, tennis and soccer are my favorite sports interests
